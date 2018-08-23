@@ -1,0 +1,22 @@
+{
+  "name": "hamal",
+  "version": "0.1.0",
+  "description": "NZ's boilerplate generator based on Command-line interface",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaszhao/hamal.git"
+  },
+  "keywords": [
+    "boilerplate-generator"
+  ],
+  "author": "NZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolaszhao/hamal/issues"
+  },
+  "homepage": "https://github.com/nicolaszhao/hamal#readme"
+}
