@@ -14,7 +14,8 @@
     "url": "git+https://github.com/nicolaszhao/hamal.git"
   },
   "keywords": [
-    "boilerplate-generator"
+    "boilerplate-generator",
+    "cli"
   ],
   "author": "NZ",
   "license": "MIT",
