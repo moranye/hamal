@@ -26,7 +26,7 @@ program
 
 program
   .command('list')
-  .description('list available official templates')
+  .description('list available templates')
   .action(list);
 
 if (!process.argv.slice(2).length) {
