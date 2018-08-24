@@ -1,8 +1,11 @@
 {
+  "bin": {
+    "hamal": "./bin/cli.js"
+  },
   "name": "hamal",
   "version": "0.1.0",
   "description": "NZ's boilerplate generator based on Command-line interface",
-  "main": "lib/index.js",
+  "main": "./bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +21,18 @@
   "bugs": {
     "url": "https://github.com/nicolaszhao/hamal/issues"
   },
-  "homepage": "https://github.com/nicolaszhao/hamal#readme"
+  "homepage": "https://github.com/nicolaszhao/hamal#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "download-git-repo": "^1.1.0",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.1.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0",
+    "semver": "^5.5.1"
+  },
+  "engines": {
+    "node": ">=8.11.3"
+  }
 }
