@@ -3,7 +3,7 @@
     "hamal": "./bin/cli.js"
   },
   "name": "hamal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NZ's boilerplate generator based on Command-line interface",
   "main": "./bin/index.js",
   "scripts": {
