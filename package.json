@@ -35,5 +35,12 @@
   },
   "engines": {
     "node": ">=8.11.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-nz": "^1.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
   }
 }
